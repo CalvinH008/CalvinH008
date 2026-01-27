@@ -17,6 +17,5 @@ I'm Calvin - A-High-School Student
 
 ### 📫 Contact
 - Email: calvinhendri008@gmail.com
-- Whatsapp: +62 812-6641-6562
 - Instagram: [Instagram](https://instagram.com/calpinnnnnnnnnnnnnnnnnn)
 
