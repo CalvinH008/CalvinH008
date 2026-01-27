@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**CalvinH008/CalvinH008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Calvin - A-High-School Student
 
-Here are some ideas to get you started:
+🎓 SMK ADVENT BATAM RPL Student  
+💻 Junior Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- PHP
+- Laravel (learning)
+- MySQL
+- HTML, CSS, Javascript (basic)
+- Git & GitHub
+
+### 📌 Projects
+- e-commerce-app-v2
+
+### 📫 Contact
+- Email: calvinhendri008@gmail.com
+- Whatsapp: +62 812-6641-6562
+- Instagram: [Instagram](https://instagram.com/calpinnnnnnnnnnnnnnnnnn)
+
