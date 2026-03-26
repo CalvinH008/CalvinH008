@@ -15,6 +15,7 @@ I'm Calvin - A-High-School Student
 ### 📌 Projects
 - e-commerce-app-v2
 - freshsoy
+- shoe-store
 
 ### 📫 Contact
 - Email: calvinhendri008@gmail.com
