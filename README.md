@@ -23,7 +23,7 @@
 - 🔨 Currently building: **freshsoy-v2** — POS(Point Of Sale) for Soy Drinks
 - 📚 Currently learning: **Building REST API with Laravel & modern UI styling**
 - 💡 Focus: Fullstack web development
-- 🎯 Goal: become a professional developer
+- 🎯 Goal: Become a professional developer
 
 ---
 
@@ -31,10 +31,10 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [freshsoy-v2](https://github.com/calvinhendri/freshsoy-v2) | POS(Point Of Sale) for soy products — PHP/Laravel | 🔨 Active |
-| [shoe-store](https://github.com/calvinhendri/shoe-store) | Online shoe store — HTML/CSS/JS | ✅ Done |
-| [freshsoy](https://github.com/calvinhendri/freshsoy) |  Full-stack Freshsoy e-commerce app | ✅ Done |
-| [e-commerce-app-v2](https://github.com/calvinhendri/e-commerce-app-v2) | Full-stack e-commerce application | ✅ Done |
+| [freshsoy-v2](https://github.com/calvinhendri/freshsoy-v2) | POS(Point Of Sale) for soy products | 🔨 Active |
+| [shoe-store](https://github.com/calvinhendri/shoe-store) | Online shoe store — Laravel, Alpine.js, Tailwind CSS, REST API, MySQL| ✅ Done |
+| [freshsoy](https://github.com/calvinhendri/freshsoy) |  Full-stack Freshsoy e-commerce app — Laravel, Blade, Tailwind CSS, MySQL | ✅ Done |
+| [e-commerce-app-v2](https://github.com/calvinhendri/e-commerce-app-v2) | Full-stack e-commerce application — OOP(Object-Oriented-Programming), Tailwind CSS, MySQL | ✅ Done |
 
 ---
 
