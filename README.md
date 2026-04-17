@@ -1,6 +1,9 @@
 # 👋 Hey, I'm Calvin
 
-**High school student** @ SMK Advent Batam · RPL · Junior Web Developer
+** 🎓 High school student ** 
+🏫 School: SMK Advent Batam
+💻 Major: RPL (Rekayasa Perangkat Lunak)
+🧠 Passion: Web development, building fullstack applications
 
 ---
 
