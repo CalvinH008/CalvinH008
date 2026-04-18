@@ -2,7 +2,7 @@
 
 - 🎓 **High school student**
 - 🏫 School: SMK Advent Batam
-- 💻 Major: RPL (Rekayasa Perangkat Lunak)
+- 💻 Major: RPL (Rekayasa Perangkat Lunak) || Software Engineering
 - 🧠 Passion: Web development, building fullstack applications
 
 ---
