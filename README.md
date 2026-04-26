@@ -34,10 +34,10 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [freshsoy-v2](https://github.com/calvinhendri/freshsoy-v2) | POS(Point Of Sale) for soy products | 🔨 Active |
-| [shoe-store](https://github.com/calvinhendri/shoe-store) | Online shoe store — Laravel, Alpine.js, Tailwind CSS, REST API, MySQL| ✅ Done |
-| [freshsoy](https://github.com/calvinhendri/freshsoy) |  Full-stack Freshsoy e-commerce app — Laravel, Blade, Tailwind CSS, MySQL | ✅ Done |
-| [e-commerce-app-v2](https://github.com/calvinhendri/e-commerce-app-v2) | Full-stack e-commerce application — OOP(Object-Oriented-Programming), Tailwind CSS, MySQL | ✅ Done |
+| [freshsoy-v2](https://github.com/CalvinH008/freshsoy-v2) | POS(Point Of Sale) for soy products | 🔨 Active |
+| [shoe-store](https://github.com/CalvinH008/shoe-store) | Online shoe store — Laravel, Alpine.js, Tailwind CSS, REST API, MySQL| ✅ Done |
+| [freshsoy](https://github.com/CalvinH008/freshsoy) |  Full-stack Freshsoy e-commerce app — Laravel, Blade, Tailwind CSS, MySQL | ✅ Done |
+| [e-commerce-app-v2](https://github.com/CalvinH008/e-commerce-app-v2) | Full-stack e-commerce application — OOP(Object-Oriented-Programming), Tailwind CSS, MySQL | ✅ Done |
 
 ---
 
