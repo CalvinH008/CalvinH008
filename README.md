@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-- 🔨 Currently building: **freshsoy-v2** — POS(Point Of Sale) for Soy Drinks
+- 🔨 Currently building: **freshsoy-v2** — Cashier App for Soy Drinks
 - 📚 Currently learning: **Building REST API with Laravel & modern UI styling**
 - 💡 Focus: Fullstack web development
 - 🎯 Goal: Become a professional developer
